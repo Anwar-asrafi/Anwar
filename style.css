@@ -1,0 +1,45 @@
+ body{
+   
+ }
+ 
+   .img{ height: 150px;
+    width: 150px;
+    border-radius:100px;
+    border: 1px solid yellow;
+    visibility: initial;
+    text-shadow: 2px black;
+    margin:21px;
+    padding:0px;
+    position: inherit;
+    text-align: center;
+}
+.hunt{
+  text-align: center;
+  font-size:80px;
+ background-color: yellow;
+padding: 0px;
+margin: 20px;
+border:2px solid black;
+border-radius: 25px;
+}
+.pas{
+  
+  font-size:49px;
+  margin: 25px;
+  text-align:center ;
+height: 5ppx;
+border: 10px solid black;
+border-radius: 20px;
+}
+
+.nokia{
+  font-size:67px;
+  font-weight:bold;
+  font-align:center;
+  text-shadow: blue;
+  border:2px solid black;
+  border-radius: 100px;
+  margin: 20px;
+  background-color: yellow;
+  
+} 
